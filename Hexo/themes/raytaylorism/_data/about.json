@@ -1,0 +1,33 @@
+{
+    "avatar": "https://avatars1.githubusercontent.com/u/14862307?v=3&u=4273fd6a75c95a235b796f56858682e6822d1e7f&s=400",
+    "name": "周涛",
+    "tag": "Web前端/iOS/技术宅",
+    "desc": "iOS 修行中,UI设计学习中，web前端转型中，JavaWeb熟悉中",
+    "skills": {
+        "Javascript": 8,
+    	"Python": 6,
+    	
+    	"invisible-split-line-1": -1,
+    
+    	"Node.js": 4
+    },
+    "projects": [{
+    	"name": "你的项目A",
+    	"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
+    	"tags": ["2016年", "项目标签"],
+    	"description": "你的项目A的简介",
+    	"link_text": "网站链接",
+    	"link": "https://dribbble.com/"
+    }, {
+    	"name": "你的作品B",
+    	"image": "https://d13yacurqjgara.cloudfront.net/users/4094/screenshots/2578885/time-lords-drib_1x.jpg",
+    	"description": "你的作品B的简介",
+    	"tags": ["Github", "设计"],
+    	"link_text": "Github地址",
+    	"link": "https://github.com/"
+    }],
+    "reward": [
+        "http://okzx13zv1.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
+    	"http://okzx13zv1.bkt.clouddn.com/%E6%94%AF%E4%BB%98%E5%AE%9D%E8%BD%AC%E8%B4%A6%E4%BA%8C%E7%BB%B4%E7%A0%81.png"
+    ]
+}

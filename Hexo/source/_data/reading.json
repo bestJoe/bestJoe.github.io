@@ -1,0 +1,14 @@
+{
+    "define": {
+        "readed": "已读",
+        "reading": "在读",
+        "wanted": "想读"
+    },
+    "contents": {
+        "readed": [],
+    	
+    	"reading": [],
+    
+        "wanted": []
+    }
+}
